@@ -1,3 +1,6 @@
 ### git practice
 
-testing
+```shell
+$ git flow init
+$ git flow feature start <branch-name>
+```
