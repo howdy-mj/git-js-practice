@@ -1,3 +1,5 @@
 ### git practice
 
-testing
+```shell
+$ git flow init
+```
