@@ -1,5 +1,2 @@
-const testing = 'making dump file';
-
-const tryFunc = () => {
-  console.log('trying to used to it');
-};
+const H1 = document.querySelector('h1');
+console.log(H1.attributes);
